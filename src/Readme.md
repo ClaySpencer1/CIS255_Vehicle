@@ -1,0 +1,1 @@
+all  of the files will help user find a particular vehicle type, while the UML is used as a visual aid

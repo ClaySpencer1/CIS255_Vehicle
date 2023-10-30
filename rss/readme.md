@@ -1,0 +1,1 @@
+The LICENSE file is used so no one can copy and claim a file as their own. John Wood is the owner.
