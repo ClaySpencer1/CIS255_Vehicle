@@ -1,9 +1,24 @@
 // Car.java
 public class Car extends Vehicle {
-    private String engineType;
-    private String color;
-    private int doors;
-    private String transmission;
+    // Existing code
 
-    // Constructors, getters, and setters
+    public String getEngineType() {
+        // Implement this method
+        return engineType;
+    }
+
+    public String getColor() {
+        // Implement this method
+        return color;
+    }
+
+    public int getDoors() {
+        // Implement this method
+        return doors;
+    }
+
+    public String getTransmission() {
+        // Implement this method
+        return transmission;
+    }
 }
