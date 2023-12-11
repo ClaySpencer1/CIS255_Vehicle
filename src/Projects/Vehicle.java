@@ -20,6 +20,6 @@ public class Vehicle {
         return year;
     }
 
-    // Other getters
+    
 }
 
